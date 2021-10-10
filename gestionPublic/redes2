@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-10-10T04:50:54.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Ra-IPmXIbrT9VgDFIu9Y" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-10T04:51:19.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="OYSKTbgkAMarF2zREWqi" version="15.5.0" type="github">
   <diagram id="kbXJOIt10ZLmnQtZA1Lq" name="Page-1">
     <mxGraphModel dx="1240" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-e6ZAo7LBIQ-eGQg3_Uc-1" value="Redes de Acciones Presupuestarias" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14;align=center;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="-e6ZAo7LBIQ-eGQg3_Uc-1" value="Redes de Acciones Presupuestarias" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14;align=center;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="960" height="830" as="geometry" />
         </mxCell>
         <mxCell id="-e6ZAo7LBIQ-eGQg3_Uc-2" value="ACTIVIDADES CENTRALES" style="swimlane;html=1;startSize=20;" vertex="1" parent="-e6ZAo7LBIQ-eGQg3_Uc-1">
